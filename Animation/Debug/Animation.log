@@ -1,0 +1,21 @@
+﻿  main.cpp
+h:\uni\real_time_3d\rt3d\realtime3d\dev\lab2\wk2\lab\md2 animation\animation\md2model.h(40): warning C4005: 'WIN32': macro redefinition
+  h:\uni\real_time_3d\rt3d\realtime3d\dev\lab2\wk2\lab\md2 animation\animation\md2model.h(40): note: command-line arguments:  see previous definition of 'WIN32'
+  md2model.cpp
+h:\uni\real_time_3d\rt3d\realtime3d\dev\lab2\wk2\lab\md2 animation\animation\md2model.h(40): warning C4005: 'WIN32': macro redefinition
+  h:\uni\real_time_3d\rt3d\realtime3d\dev\lab2\wk2\lab\md2 animation\animation\md2model.h(40): note: command-line arguments:  see previous definition of 'WIN32'
+h:\uni\real_time_3d\rt3d\realtime3d\dev\lab2\wk2\lab\md2 animation\animation\md2model.cpp(106): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+h:\uni\real_time_3d\rt3d\realtime3d\dev\lab2\wk2\lab\md2 animation\animation\md2model.cpp(176): warning C4101: 'v': unreferenced local variable
+h:\uni\real_time_3d\rt3d\realtime3d\dev\lab2\wk2\lab\md2 animation\animation\md2model.cpp(175): warning C4101: 's': unreferenced local variable
+h:\uni\real_time_3d\rt3d\realtime3d\dev\lab2\wk2\lab\md2 animation\animation\md2model.cpp(176): warning C4101: 'norm': unreferenced local variable
+h:\uni\real_time_3d\rt3d\realtime3d\dev\lab2\wk2\lab\md2 animation\animation\md2model.cpp(175): warning C4101: 't': unreferenced local variable
+h:\uni\real_time_3d\rt3d\realtime3d\dev\lab2\wk2\lab\md2 animation\animation\md2model.cpp(338): warning C4018: '<': signed/unsigned mismatch
+  rt3d.cpp
+  rt3dObjLoader.cpp
+h:\uni\real_time_3d\rt3d\realtime3d\dev\lab2\wk2\lab\md2 animation\animation\rt3dobjloader.cpp(197): warning C4018: '<': signed/unsigned mismatch
+h:\uni\real_time_3d\rt3d\realtime3d\dev\lab2\wk2\lab\md2 animation\animation\rt3dobjloader.cpp(135): warning C4101: 'z': unreferenced local variable
+h:\uni\real_time_3d\rt3d\realtime3d\dev\lab2\wk2\lab\md2 animation\animation\rt3dobjloader.cpp(135): warning C4101: 'y': unreferenced local variable
+h:\uni\real_time_3d\rt3d\realtime3d\dev\lab2\wk2\lab\md2 animation\animation\rt3dobjloader.cpp(135): warning C4101: 'x': unreferenced local variable
+  Generating Code...
+  Animation.vcxproj -> H:\Uni\Real_Time_3D\rt3d\RealTime3D\dev\Lab2\wk2\lab\MD2 Animation\Debug\Animation.exe
